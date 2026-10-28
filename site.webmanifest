@@ -1,0 +1,20 @@
+{
+ "name": "Therapy with Sazzy",
+ "short_name": "Sazzy",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#FBF6EE",
+ "theme_color": "#0F2A4A",
+ "icons": [
+  {
+   "src": "/assets/logo/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/logo/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
