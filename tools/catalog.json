@@ -1,0 +1,1254 @@
+{
+ "feelings": {
+  "entries": [
+   {
+    "slug": "my-feelings-chart",
+    "title": "My Feelings Chart",
+    "aud": "children",
+    "age": "Ages 4\u201310",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation"
+    ],
+    "teaches": "Identifying happy, sad, angry, worried, frustrated, excited, and confused",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "feelings-thermometer",
+    "title": "Feelings Thermometer",
+    "aud": "children",
+    "age": "Ages 5\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation",
+     "anger"
+    ],
+    "teaches": "Understanding how big a feeling is, from 1 to 5",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "where-do-i-feel-it",
+    "title": "Where Do I Feel It?",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation"
+    ],
+    "teaches": "Recognizing how emotions show up in the body",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-calm-down-menu",
+    "title": "My Calm-Down Menu",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation",
+     "anger"
+    ],
+    "teaches": "Choosing healthy ways to calm your body and mind",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "the-anger-detective",
+    "title": "The Anger Detective",
+    "aud": "children",
+    "age": "Ages 7\u201312",
+    "kind": "Activity",
+    "topics": [
+     "anger",
+     "emotional-regulation"
+    ],
+    "teaches": "Identifying triggers and reactions",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "stop-think-choose",
+    "title": "Stop, Think, Choose",
+    "aud": "children",
+    "age": "Ages 5\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation",
+     "anger"
+    ],
+    "teaches": "Learning impulse control",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-worry-monster",
+    "title": "My Worry Monster",
+    "aud": "children",
+    "age": "Ages 4\u201310",
+    "kind": "Activity",
+    "topics": [
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Externalizing and managing worries",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "what-can-i-control",
+    "title": "What Can I Control?",
+    "aud": "children",
+    "age": "Ages 6\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Separating controllable and uncontrollable situations",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-personal-strengths",
+    "title": "My Personal Strengths",
+    "aud": "children",
+    "age": "Ages 5\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Building confidence and self-esteem",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-safe-people",
+    "title": "My Safe People",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "relationships",
+     "emotional-regulation"
+    ],
+    "teaches": "Identifying trusted adults and support systems",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "superhero-coping-strategy",
+    "title": "Design Your Superhero Coping Strategy",
+    "aud": "children",
+    "age": "Ages 5\u201312",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation",
+     "confidence"
+    ],
+    "teaches": "Turning a coping skill into a superpower",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "draw-what-anger-looks-like",
+    "title": "Draw What Anger Looks Like",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Activity",
+    "topics": [
+     "anger",
+     "emotional-regulation"
+    ],
+    "teaches": "Expressing anger safely through art",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "match-emotions-to-faces",
+    "title": "Match Emotions to Faces",
+    "aud": "children",
+    "age": "Ages 4\u20138",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation"
+    ],
+    "teaches": "Matching feelings words to facial expressions",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "create-a-calm-down-corner",
+    "title": "Create a Calm-Down Corner",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation"
+    ],
+    "teaches": "Designing a safe space to regulate",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "five-finger-breathing",
+    "title": "Five-Finger Breathing",
+    "aud": "children",
+    "age": "Ages 4\u201312",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation",
+     "anxiety"
+    ],
+    "teaches": "Practicing slow breathing with a visual guide",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "emotional-regulation-toolbox",
+    "title": "Build Your Own Emotional Regulation Toolbox",
+    "aud": "children",
+    "age": "Ages 5\u201312",
+    "kind": "Activity",
+    "topics": [
+     "emotional-regulation"
+    ],
+    "teaches": "Collecting your own calming strategies",
+    "start": true,
+    "pages": 1,
+    "group": "activities"
+   }
+  ],
+  "pages": 16,
+  "name": "The Feelings Toolkit"
+ },
+ "parent": {
+  "entries": [
+   {
+    "slug": "understanding-my-childs-triggers",
+    "title": "Understanding My Child's Triggers",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "parenting",
+     "emotional-regulation"
+    ],
+    "teaches": "Recognizing patterns behind behavior",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "behavior-abc-tracker",
+    "title": "Behavior ABC Tracker",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "parenting",
+     "anger"
+    ],
+    "teaches": "Antecedent, Behavior, Consequence",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "positive-reinforcement-planner",
+    "title": "Positive Reinforcement Planner",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Printable worksheet",
+    "topics": [
+     "parenting",
+     "confidence"
+    ],
+    "teaches": "Encouraging desired behaviors",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "setting-healthy-boundaries",
+    "title": "Setting Healthy Boundaries",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "relationships"
+    ],
+    "teaches": "Establishing consistent expectations",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "managing-emotional-outbursts",
+    "title": "Managing Emotional Outbursts",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "anger",
+     "emotional-regulation"
+    ],
+    "teaches": "Responding to dysregulation",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "parent-child-communication-guide",
+    "title": "Parent-Child Communication Guide",
+    "aud": "parents",
+    "age": "Ages 3\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "relationships"
+    ],
+    "teaches": "Listening and responding effectively",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "creating-a-visual-routine",
+    "title": "Creating a Visual Routine",
+    "aud": "parents",
+    "age": "Ages 3\u201310",
+    "kind": "Activity",
+    "topics": [
+     "parenting",
+     "emotional-regulation"
+    ],
+    "teaches": "Building structure and predictability",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "consequences-vs-punishment",
+    "title": "Consequences vs. Punishment",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "Understanding effective discipline",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "adhd-parenting-guide",
+    "title": "ADHD Parenting Guide",
+    "aud": "parents",
+    "age": "Ages 5\u201314",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "emotional-regulation"
+    ],
+    "teaches": "Supporting executive functioning",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-autism",
+    "title": "Understanding Autism",
+    "aud": "parents",
+    "age": "Ages 3\u201314",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "relationships"
+    ],
+    "teaches": "Supporting sensory and developmental differences",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "building-your-childs-confidence",
+    "title": "Building Your Child's Confidence",
+    "aud": "parents",
+    "age": "Ages 4\u201314",
+    "kind": "Educational guide",
+    "topics": [
+     "confidence",
+     "parenting"
+    ],
+    "teaches": "Encouraging independence and resilience",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "co-parenting-communication",
+    "title": "Co-Parenting Communication",
+    "aud": "parents",
+    "age": "Parents & caregivers",
+    "kind": "Educational guide",
+    "topics": [
+     "parenting",
+     "relationships"
+    ],
+    "teaches": "Keeping the child's needs central",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "when-your-child-refuses-to-listen",
+    "title": "When Your Child Refuses to Listen",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "When Your Child Refuses to Listen",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "when-your-child-screams-cries-or-is-aggressive",
+    "title": "When Your Child Screams, Cries, or Becomes Aggressive",
+    "aud": "parents",
+    "age": "Ages 3\u201312",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "When Your Child Screams, Cries, or Becomes Aggressive",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "when-your-child-says-no",
+    "title": "When Your Child Says \"No!\"",
+    "aud": "parents",
+    "age": "Ages 2\u201310",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "When Your Child Says \"No!\"",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "screen-time-conflicts",
+    "title": "Managing Screen-Time Conflicts",
+    "aud": "parents",
+    "age": "Ages 4\u201316",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "Managing Screen-Time Conflicts",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "boundaries-without-constant-arguments",
+    "title": "Setting Boundaries Without Constant Arguments",
+    "aud": "parents",
+    "age": "Ages 4\u201314",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "Setting Boundaries Without Constant Arguments",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "when-siblings-fight",
+    "title": "When Siblings Fight",
+    "aud": "parents",
+    "age": "Ages 3\u201314",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting"
+    ],
+    "teaches": "When Siblings Fight",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "helping-children-transition-between-activities",
+    "title": "Helping Children Transition Between Activities",
+    "aud": "parents",
+    "age": "Ages 3\u201310",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting",
+     "emotional-regulation"
+    ],
+    "teaches": "Helping Children Transition Between Activities",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   },
+   {
+    "slug": "building-trust-and-connection",
+    "title": "Building Trust and Strengthening the Parent-Child Relationship",
+    "aud": "parents",
+    "age": "Ages 2\u201318",
+    "kind": "Quick-response guide",
+    "topics": [
+     "parenting",
+     "relationships"
+    ],
+    "teaches": "Building Trust and Strengthening the Parent-Child Relationship",
+    "start": false,
+    "pages": 1,
+    "group": "guides"
+   }
+  ],
+  "pages": 20,
+  "name": "The Parent Toolkit"
+ },
+ "teen": {
+  "entries": [
+   {
+    "slug": "the-stress-check-in",
+    "title": "The Stress Check-In",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Printable worksheet",
+    "topics": [
+     "stress",
+     "anxiety"
+    ],
+    "teaches": "Identifying sources of stress",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "overthinking-worksheet",
+    "title": "Overthinking Worksheet",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Printable worksheet",
+    "topics": [
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Challenging repetitive thoughts",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-self-esteem-journal",
+    "title": "My Self-Esteem Journal",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Self-reflection",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Building self-worth",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "setting-boundaries-teens",
+    "title": "Setting Boundaries",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships",
+     "confidence"
+    ],
+    "teaches": "Healthy interpersonal relationships",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "managing-peer-pressure",
+    "title": "Managing Peer Pressure",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Printable worksheet",
+    "topics": [
+     "relationships",
+     "confidence"
+    ],
+    "teaches": "Making independent decisions",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "social-media-and-mental-health",
+    "title": "Social Media & Mental Health",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "stress",
+     "confidence",
+     "anxiety"
+    ],
+    "teaches": "Understanding digital wellness",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "anxiety-management-guide",
+    "title": "Anxiety Management Guide",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Managing anxious thoughts",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "emotional-regulation-plan",
+    "title": "Emotional Regulation Plan",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation",
+     "anger"
+    ],
+    "teaches": "Responding rather than reacting",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "conflict-resolution-guide",
+    "title": "Conflict Resolution Guide",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships",
+     "anger"
+    ],
+    "teaches": "Navigating disagreements",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-identity-and-values",
+    "title": "My Identity & Values",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Self-reflection",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Understanding personal identity",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "healthy-vs-unhealthy-friendships",
+    "title": "Healthy vs. Unhealthy Friendships",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships"
+    ],
+    "teaches": "Recognizing relationship patterns",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "my-future-vision",
+    "title": "My Future Vision",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Activity",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Exploring goals and aspirations",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "who-am-i-beyond-what-people-think",
+    "title": "Who Am I Beyond What People Think of Me?",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Activity",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Separating identity from others' opinions",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "things-i-wish-people-understood",
+    "title": "Things I Wish People Understood About Me",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Self-reflection",
+    "topics": [
+     "relationships",
+     "confidence"
+    ],
+    "teaches": "Putting hard-to-say feelings into words",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "my-circle-of-influence",
+    "title": "My Circle of Influence",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Activity",
+    "topics": [
+     "stress",
+     "confidence"
+    ],
+    "teaches": "Focusing on what you can influence",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "what-happens-when-i-compare-myself",
+    "title": "What Happens When I Compare Myself to Others?",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Self-reflection",
+    "topics": [
+     "confidence",
+     "anxiety"
+    ],
+    "teaches": "Noticing the cost of comparison",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   },
+   {
+    "slug": "30-day-confidence-challenge",
+    "title": "My 30-Day Confidence Challenge",
+    "aud": "teens",
+    "age": "Ages 12\u201318",
+    "kind": "Activity",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Building confidence through daily small actions",
+    "start": false,
+    "pages": 1,
+    "group": "activities"
+   }
+  ],
+  "pages": 17,
+  "name": "The Teen Toolkit"
+ },
+ "adult": {
+  "entries": [
+   {
+    "slug": "personal-coping-plan",
+    "title": "Personal Coping Plan",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "stress",
+     "emotional-regulation",
+     "anxiety"
+    ],
+    "teaches": "Developing individualized coping strategies",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "emotional-wellness-check-in",
+    "title": "Emotional Wellness Check-In",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "stress",
+     "emotional-regulation"
+    ],
+    "teaches": "Monitoring emotional well-being",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-your-triggers",
+    "title": "Understanding Your Triggers",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "emotional-regulation",
+     "stress",
+     "trauma"
+    ],
+    "teaches": "Recognizing emotional patterns",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "stress-management-workbook",
+    "title": "Stress Management Workbook",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "stress",
+     "anxiety"
+    ],
+    "teaches": "Identifying and managing stress",
+    "start": true,
+    "pages": 2,
+    "group": "materials"
+   },
+   {
+    "slug": "values-and-boundaries-worksheet",
+    "title": "Values & Boundaries Worksheet",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "relationships",
+     "stress"
+    ],
+    "teaches": "Identifying personal priorities",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "mindfulness-exercises",
+    "title": "Mindfulness Exercises",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Activity",
+    "topics": [
+     "stress",
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Developing present-moment awareness",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "self-compassion-journal",
+    "title": "Self-Compassion Journal",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Self-reflection",
+    "topics": [
+     "confidence",
+     "emotional-regulation"
+    ],
+    "teaches": "Reducing self-criticism",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "cognitive-restructuring",
+    "title": "Cognitive Restructuring",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Challenging unhelpful thinking",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "healthy-relationship-checklist",
+    "title": "Healthy Relationship Checklist",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "relationships"
+    ],
+    "teaches": "Recognizing relationship patterns",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "burnout-prevention-guide",
+    "title": "Burnout Prevention Guide",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "stress"
+    ],
+    "teaches": "Recognizing emotional exhaustion",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "personal-growth-planner",
+    "title": "Personal Growth Planner",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "confidence"
+    ],
+    "teaches": "Setting meaningful goals",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "building-resilience",
+    "title": "Building Resilience",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Printable worksheet",
+    "topics": [
+     "stress",
+     "confidence",
+     "emotional-regulation"
+    ],
+    "teaches": "Developing adaptive coping skills",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-your-nervous-system",
+    "title": "Understanding Your Nervous System",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "stress",
+     "emotional-regulation",
+     "trauma"
+    ],
+    "teaches": "Understanding Your Nervous System",
+    "start": false,
+    "pages": 1,
+    "group": "topics"
+   },
+   {
+    "slug": "emotional-boundaries-vs-emotional-walls",
+    "title": "Emotional Boundaries vs. Emotional Walls",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships"
+    ],
+    "teaches": "Emotional Boundaries vs. Emotional Walls",
+    "start": false,
+    "pages": 1,
+    "group": "topics"
+   },
+   {
+    "slug": "managing-anxiety-and-uncertainty",
+    "title": "Managing Anxiety and Uncertainty",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "anxiety",
+     "stress"
+    ],
+    "teaches": "Managing Anxiety and Uncertainty",
+    "start": false,
+    "pages": 1,
+    "group": "topics"
+   },
+   {
+    "slug": "healthy-communication-habits",
+    "title": "Developing Healthy Communication Habits",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships"
+    ],
+    "teaches": "Developing Healthy Communication Habits",
+    "start": false,
+    "pages": 1,
+    "group": "topics"
+   },
+   {
+    "slug": "recognizing-unhealthy-relationship-dynamics",
+    "title": "Recognizing Unhealthy Relationship Dynamics",
+    "aud": "adults",
+    "age": "Adults",
+    "kind": "Educational guide",
+    "topics": [
+     "relationships",
+     "trauma"
+    ],
+    "teaches": "Recognizing Unhealthy Relationship Dynamics",
+    "start": false,
+    "pages": 1,
+    "group": "topics"
+   }
+  ],
+  "pages": 18,
+  "name": "The Adult Wellness Toolkit"
+ },
+ "trauma": {
+  "entries": [
+   {
+    "slug": "understanding-trauma-a-beginners-guide",
+    "title": "Understanding Trauma: A Beginner's Guide",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "emotional-regulation"
+    ],
+    "teaches": "What trauma is, how it shows up, and why healing is possible",
+    "start": true,
+    "pages": 2,
+    "group": "materials"
+   },
+   {
+    "slug": "what-is-complex-trauma",
+    "title": "What Is Complex Trauma?",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "relationships"
+    ],
+    "teaches": "Understanding repeated, long-term trauma",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "fight-flight-freeze-and-fawn",
+    "title": "Understanding Fight, Flight, Freeze, and Fawn",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "anxiety",
+     "emotional-regulation"
+    ],
+    "teaches": "Recognizing automatic survival responses",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-emotional-triggers",
+    "title": "Understanding Emotional Triggers",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Printable worksheet",
+    "topics": [
+     "trauma",
+     "emotional-regulation",
+     "anxiety"
+    ],
+    "teaches": "Tracing how reminders lead to reactions",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "grounding-techniques-for-emotional-distress",
+    "title": "Grounding Techniques for Emotional Distress",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "anxiety",
+     "emotional-regulation",
+     "stress"
+    ],
+    "teaches": "Using the senses and body to settle strong emotions",
+    "start": true,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "the-window-of-tolerance",
+    "title": "The Window of Tolerance",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "emotional-regulation",
+     "stress"
+    ],
+    "teaches": "Understanding the zone where you can cope",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-dissociation",
+    "title": "Understanding Dissociation",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "emotional-regulation"
+    ],
+    "teaches": "Recognizing and responding to feeling disconnected",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "reconnecting-with-your-body",
+    "title": "Reconnecting With Your Body",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Activity",
+    "topics": [
+     "trauma",
+     "emotional-regulation",
+     "stress"
+    ],
+    "teaches": "Rebuilding a sense of safety in the body",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "building-emotional-safety",
+    "title": "Building Emotional Safety",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Printable worksheet",
+    "topics": [
+     "trauma",
+     "relationships",
+     "emotional-regulation"
+    ],
+    "teaches": "Creating safety inside you, around you, and with others",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "understanding-attachment-and-relationships",
+    "title": "Understanding Attachment and Relationships",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Educational guide",
+    "topics": [
+     "trauma",
+     "relationships"
+    ],
+    "teaches": "How early relationships shape how we connect",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "developing-a-personal-safety-plan",
+    "title": "Developing a Personal Safety Plan",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Printable worksheet",
+    "topics": [
+     "trauma",
+     "stress",
+     "anxiety"
+    ],
+    "teaches": "Preparing for the hardest moments",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   },
+   {
+    "slug": "creating-a-self-care-and-recovery-plan",
+    "title": "Creating a Self-Care and Recovery Plan",
+    "aud": "trauma",
+    "age": "Adults & teens",
+    "kind": "Printable worksheet",
+    "topics": [
+     "trauma",
+     "stress",
+     "confidence"
+    ],
+    "teaches": "Building a sustainable routine for healing",
+    "start": false,
+    "pages": 1,
+    "group": "materials"
+   }
+  ],
+  "pages": 13,
+  "name": "Trauma & Healing Resource Center"
+ }
+}
